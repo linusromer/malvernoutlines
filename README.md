@@ -10,4 +10,4 @@ ma75a10.pfb
 ma76a10.pfb
 ma53a12.pfb 
 ma57a12.pfb
-Unfortunately, some tfm files are missing, if one wants to typeset Greek or Cyrillic. I have added them. 
+Unfortunately, some tfm files are missing on CTAN, if one wants to typeset Greek or Cyrillic. I have added them. 
