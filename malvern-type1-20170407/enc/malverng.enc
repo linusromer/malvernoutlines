@@ -1,0 +1,266 @@
+% @psencodingfile{
+%   filename = "malverng.enc",
+%   license = "public domain",
+%   date = "2017/03/24",
+%   author = "Linus Romer",
+%   docstring = "This is the G (Greek) encoding from Malvern."
+% }
+%
+/malverng [    % now 256 chars follow
+/quotesingle
+/endash
+/emdash
+/tonos % here not the same as oxia
+/.notdef
+/.notdef
+/uni1FDE % dasia and oxia
+/uni1FDD % dasia and varia
+/uni1FDF % dasia and perispomeni
+/uni1FCE % psili and oxia
+/uni1FCD % psili and varia
+/uni1FCF % psili and perispomeni
+/uni1FEE % dialytika and oxia
+/uni1FED % dialytika and varia
+/uni1FC1 % dialytika and perispomeni
+/dieresistonos
+/uni1FB3 % alpha with ypogegrammeni
+/uni1FC3 % eta with ypogegrammeni
+/uni1FF3 % omega with ypogegrammeni
+/uni1FE5 % rho with dasia
+/uni1FE4 % rho with psili
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/alphatonos
+/uni1F71 % alpha with oxia
+/uni1F70 % alpha with varia
+/uni200B % zero width space
+/exclam
+/dieresis
+/.notdef
+/.notdef
+/percent
+/.notdef
+/uni1FFD % oxia (here not the same as tonos)
+/parenleft
+/parenright  
+/asterisk
+/plus
+/comma
+/hyphen
+/period
+/slash
+/uniE400 % 0
+/uniE401 % 1
+/uniE402 % 2
+/uniE403 % 3
+/uniE404 % 4
+/uniE405 % 5
+/uniE406 % 6
+/uniE407 % 7
+/uniE408 % 8
+/uniE409 % 9
+/colon        
+/anoteleia
+/uni1FFE % dasia
+/equal          
+/uni1FBF % psili
+/semicolon
+/uni200D % zero width joiner?
+/Alpha
+/Beta
+/uni03F9 % lunate Sigma
+/uni0394 % Delta
+/Epsilon
+/Phi
+/Gamma
+/Eta
+/Iota
+/Theta
+/Kappa
+/Lambda
+/Mu
+/Nu
+/Omicron
+/Pi
+/Chi
+/Rho
+/Sigma
+/Tau
+/Upsilon
+/uni03DC % Digamma
+/uni03A9 % Omega
+/Xi
+/Psi
+/Zeta
+/bracketleft
+/phi
+/bracketright
+/.notdef
+/.notdef
+/uni1FEF % varia
+/alpha
+/beta
+/uni03F2 % lunate sigma
+/delta
+/epsilon
+/phi1
+/gamma
+/eta
+/iota
+/theta
+/kappa
+/lambda
+/mu
+/nu
+/omicron
+/pi
+/chi
+/rho
+/sigma
+/tau
+/upsilon
+/uni03DD % digamma
+/omega
+/xi
+/psi
+/zeta
+/guillemotleft
+/uni037A % ypogegrammeni
+/guillemotright
+/uni1FC0 % perispomeni
+/sigma1
+/uni1FB6 % alpha with perispomeni
+/uni1F01 % alpha with dasia
+/uni1F05 % alpha with dasia and oxia
+/uni1F03 % alpha with dasia and varia
+/uni1F07 % alpha with dasia and perispomeni
+/uni1F00 % alpha with psili
+/uni1F04 % alpha with psili and oxia
+/uni1F02 % alpha with psili and varia
+/uni1F06 % alpha with psili and perispomeni
+/uni1FB5 % alpha with tonos and ypogegrammeni (not defined in unicode)
+/uni1FB4 % alpha with oxia and ypogegrammeni
+/uni1FB2 % alpha with varia and ypogegrammeni
+/uni1FB7 % alpha with perispomeni and ypogegrammeni
+/uni1F81 % alpha with dasia and ypogegrammeni
+/uni1F85 % alpha with dasia and oxia and ypogegrammeni
+/uni1F83 % alpha with dasia and varia and ypogegrammeni
+/uni1F87 % alpha with dasia and perispomeni and ypogegrammeni
+/uni1F80 % alpha with psili and ypogegrammeni
+/uni1F84 % alpha with psili and oxia and ypogegrammeni
+/uni1F82 % alpha with psili and varia and ypogegrammeni
+/uni1F86 % alpha with psili and perispomeni and ypogegrammeni
+/epsilontonos
+/uni1F73 % epsilon with oxia
+/uni1F72 % epsilon with varia
+/uniE520 % epsilon with perispomeni (not defined in unicode)
+/uni1F11 % epsilon with dasia
+/uni1F15 % epsilon with dasia and oxia
+/uni1F13 % epsilon with dasia and varia
+/uni1F17 % epsilon with dasia and perispomeni (not defined in unicode)
+/uni1F10 % epsilon with psili
+/uni1F14 % epsilon with psili and oxia
+/uni1F12 % epsilon with psili and varia
+/uni1F16 % epsilon with psili and perispomeni (not defined in unicode)
+/etatonos
+/uni1F75 % eta with oxia
+/uni1F74 % eta with varia
+/uni1FC6 % eta with perispomeni
+/uni1F21 % eta with dasia
+/uni1F25 % eta with dasia and oxia
+/uni1F23 % eta with dasia and varia
+/uni1F27 % eta with dasia and perispomeni
+/uni1F20 % eta with psili
+/uni1F24 % eta with psili and oxia
+/uni1F22 % eta with psili and varia
+/uni1F26 % eta with psili and perispomeni
+/uni1FC5 % eta with tonos and ypogegrammeni (not defined in unicode)
+/uni1FC4 % eta with oxia and ypogegrammeni
+/uni1FC2 % eta with varia and ypogegrammeni
+/uni1FC7 % eta with perispomeni and ypogegrammeni
+/uni1F91 % eta with dasia and ypogegrammeni
+/uni1F95 % eta with dasia and oxia and ypogegrammeni
+/uni1F93 % eta with dasia and varia and ypogegrammeni
+/uni1F97 % eta with dasia and perispomeni and ypogegrammeni
+/uni1F90 % eta with psili and ypogegrammeni
+/uni1F94 % eta with psili and oxia and ypogegrammeni
+/uni1F92 % eta with psili and varia and ypogegrammeni
+/uni1F96 % eta with psili and perispomeni and ypogegrammeni
+/iotatonos
+/uni1F77 % iota with oxia
+/uni1F76 % iota with varia
+/uni1FD6 % iota with perispomeni
+/uni1F31 % iota with dasia
+/uni1F35 % iota with dasia and oxia
+/uni1F33 % iota with dasia and varia
+/uni1F37 % iota with dasia and perispomeni
+/uni1F30 % iota with psili
+/uni1F34 % iota with psili and oxia
+/uni1F32 % iota with psili and varia
+/uni1F36 % iota with psili and perispomeni
+/omicrontonos
+/uni1F79 % omicron with oxia
+/uni1F78 % omicron with varia
+/uniE521 % omicron with perispomeni (not in unicode)
+/uni1F41 % omicron with dasia
+/uni1F45 % omicron with dasia and oxia
+/uni1F43 % omicron with dasia and varia
+/uni1F47 % omicron with dasia and perispomeni
+/uni1F40 % omicron with psili
+/uni1F44 % omicron with psili and oxia
+/uni1F42 % omicron with psili and varia
+/uni1F46 % omicron with psili and perispomeni
+/upsilontonos
+/uni1F7B % upsilon with oxia
+/uni1F7A % upsilon with varia
+/uni1FE6 % upsilon with perispomeni
+/uni1F51 % upsilon with dasia
+/uni1F55 % upsilon with dasia and oxia
+/uni1F53 % upsilon with dasia and varia
+/uni1F57 % upsilon with dasia and perispomeni
+/uni1F50 % upsilon with psili
+/uni1F54 % upsilon with psili and oxia
+/uni1F52 % upsilon with psili and varia
+/uni1F56 % upsilon with psili and perispomeni
+/omegatonos
+/uni1F7D % omega with oxia
+/uni1F7C % omega with varia
+/uni1FF6 % omega with perispomeni
+/uni1F61 % omega with dasia
+/uni1F65 % omega with dasia and oxia
+/uni1F63 % omega with dasia and varia
+/uni1F67 % omega with dasia and perispomeni
+/uni1F60 % omega with psili
+/uni1F64 % omega with psili and oxia
+/uni1F62 % omega with psili and varia
+/uni1F66 % omega with psili and perispomeni
+/uniE522 % omega with tonos and ypogegrammeni (not in unicode)
+/uni1FF4 % omega with oxia and ypogegrammeni
+/uni1FF2 % omega with varia and ypogegrammeni
+/uni1FF7 % omega with perispomeni and ypogegrammeni
+/uni1FA1 % omega with dasia and ypogegrammeni
+/uni1FA5 % omega with dasia and oxia and ypogegrammeni
+/uni1FA3 % omega with dasia and varia and ypogegrammeni
+/uni1FA7 % omega with dasia and perispomeni and ypogegrammeni
+/uni1FA0 % omega with psili and ypogegrammeni
+/uni1FA4 % omega with psili and oxia and ypogegrammeni
+/uni1FA2 % omega with psili and varia and ypogegrammeni
+/uni1FA6 % omega with psili and perispomeni and ypogegrammeni
+/iotadieresis
+/iotadieresistonos
+/uni1FD3 % iota with dialytika and oxia
+/uni1FD2 % iota with dialytika and varia
+/uni1FD7 % iota with dialytika and perispomeni
+/upsilondieresis
+/upsilondieresistonos
+/uni1FE3 % upsilon with dialytika and oxia
+/uni1FE2 % upsilon with dialytika and varia
+/uni1FE7 % upsilon with dialytika and perispomeni
+/.notdef
+] def

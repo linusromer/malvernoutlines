@@ -1,0 +1,266 @@
+% @psencodingfile{
+%   filename = "malverna.enc",
+%   license = "public domain",
+%   date = "2017/03/14",
+%   author = "Linus Romer",
+%   docstring = "This is the A encoding from Malvern."
+% }
+%
+/malverna [    % now 256 chars follow
+/Thorn
+/Aogonek
+/Eng
+/Lslash
+/Eth
+/Eogonek
+/cedilla
+/ogonek
+/acute
+/grave
+/circumflex
+/tilde
+/ring
+/caron
+/breve
+/hungarumlaut
+/thorn
+/aogonek
+/eng
+/lslash
+/eth
+/eogonek
+/dotaccent
+/dieresis
+/germandbls
+/dotlessi   
+/dotlessj
+/ff 
+/fi
+/fl 
+/ffi
+/ffl     
+/uni2022 % bullet
+/exclam
+/trademark
+/numbersign
+/dollar
+/percent
+/ampersand
+/quoteright
+/parenleft
+/parenright
+/asterisk
+/plus
+/comma
+/hyphen
+/period
+/slash
+/zero
+/one
+/two
+/three
+/four
+/five
+/six
+/seven
+/eight
+/nine
+/colon
+/semicolon
+/less
+/equal
+/greater
+/question
+/at
+/A
+/B
+/C
+/D
+/E
+/F
+/G
+/H
+/I
+/J
+/K
+/L
+/M
+/N
+/O
+/P
+/Q
+/R
+/S
+/T
+/U
+/V
+/W
+/X
+/Y
+/Z
+/bracketleft
+/Oslash
+/bracketright
+/AE
+/OE
+/quoteleft
+/a
+/b
+/c
+/d
+/e
+/f
+/g
+/h
+/i
+/j
+/k
+/l
+/m
+/n
+/o
+/p
+/q
+/r
+/s
+/t
+/u
+/v
+/w
+/x
+/y
+/z
+/braceleft
+/oslash
+/braceright
+/ae
+/oe
+/uniE01D % Thorn.mc
+/uniE01E % Aogonek.mc
+/uniE020 % Eng.mc
+/uniE021 % Lslash.mc
+/uniE022 % Eth.mc
+/uniE023 % Eogonek.mc
+/uniE300 % cedilla.cap
+/uniE301 % ogonek.cap
+/uniE302 % acute.cap
+/uniE303 % grave.cap
+/uniE304 % circumflex.cap
+/uniE305 % tilde.cap
+/uniE306 % ring.cap
+/uniE307 % caron.cap
+/uniE308 % breve.cap
+/uniE309 % hungarumlaut.cap
+/uniE11D % Thorn.sc
+/uniE11E % Aogonek.sc
+/uniE120 % Eng.sc
+/uniE121 % Lslash.sc
+/uniE122 % Eth.sc
+/uniE123 % Eogonek.sc
+/macron
+/uniE501 % macron for 2 chars
+/ordfeminine
+/ordmasculine
+/uni2105 % care of (c/o)
+/uni1D9C % superscript lowercase c (Mc Donalds)
+/dcaron
+/tcaron
+/hcircumflex
+/lcaron
+/uni2610 % ballot box
+/exclamdown
+/cent
+/sterling
+/currency
+/perthousand
+/uni00D7 % times (multiplication cross)
+/quotedblright
+/yen
+/florin
+/dagger
+/daggerdbl
+/quotedblbase
+/endash
+/uni00B7 % cdot (middle dot)
+/minus
+/uniE400 % 0
+/uniE401 % 1
+/uniE402 % 2
+/uniE403 % 3
+/uniE404 % 4
+/uniE405 % 5
+/uniE406 % 6
+/uniE407 % 7
+/uniE408 % 8
+/uniE409 % 9
+/section
+/paragraph
+/guillemotleft
+/emdash
+/guillemotright
+/questiondown
+/degree
+/uniE000 % A.mc
+/uniE001 % B.mc
+/uniE002 % C.mc
+/uniE003 % D.mc
+/uniE004 % E.mc
+/uniE005 % F.mc
+/uniE006 % G.mc
+/uniE007 % H.mc
+/uniE008 % I.mc
+/uniE009 % J.mc
+/uniE00A % K.mc
+/uniE00B % L.mc
+/uniE00C % M.mc
+/uniE00D % N.mc
+/uniE00E % O.mc
+/uniE010 % P.mc
+/uniE011 % Q.mc
+/uniE012 % R.mc
+/uniE013 % S.mc
+/uniE014 % T.mc
+/uniE015 % U.mc
+/uniE016 % V.mc
+/uniE017 % W.mc
+/uniE018 % X.mc
+/uniE019 % Y.mc
+/uniE01A % Z.mc
+/uni3008 % left angle bracket
+/uniE02D % Oslash.mc
+/uni3009 % right angle bracket
+/uniE01B % Ae.mc
+/uniE01C % Oe.mc
+/quotedblleft
+/uniE100 % A.sc
+/uniE101 % B.sc
+/uniE102 % C.sc
+/uniE103 % D.sc
+/uniE104 % E.sc
+/uniE105 % F.sc
+/uniE106 % G.sc
+/uniE107 % H.sc
+/uniE108 % I.sc
+/uniE109 % J.sc
+/uniE10A % K.sc
+/uniE10B % L.sc
+/uniE10C % M.sc
+/uniE10D % N.sc
+/uniE10E % O.sc
+/uniE110 % P.sc
+/uniE111 % Q.sc
+/uniE112 % R.sc
+/uniE113 % S.sc
+/uniE114 % T.sc
+/uniE115 % U.sc
+/uniE116 % V.sc
+/uniE117 % W.sc
+/uniE118 % X.sc
+/uniE119 % Y.sc
+/uniE11A % Z.sc
+/copyright
+/uniE12D % Oslash.sc
+/registered
+/uniE11B % Ae.sc
+/uniE11C % Oe.sc
+] def

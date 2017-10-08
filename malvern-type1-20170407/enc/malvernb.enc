@@ -1,0 +1,266 @@
+% @psencodingfile{
+%   filename = "malvernb.enc",
+%   license = "public domain",
+%   date = "2017/03/15",
+%   author = "Linus Romer",
+%   docstring = "This is the B encoding from Malvern."
+% }
+%
+/malvernb [    % now 256 chars follow
+/uni2190 % leftwards arrow
+/uni2192 % rightwards arrow
+/uni2191 % upwards arrow
+/uni2193 % downwards arrow
+/uni2194 % left right arrow
+/uni2195 % up down arrow
+/uniE510 % horizontal arrow extension
+/uniE511 % vertical arrow extension
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef  
+/.notdef
+/.notdef
+/quotedbl
+/.notdef
+/.notdef
+/uniE512 % perthousandzero
+/.notdef
+/quoteright
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/comma
+/.notdef
+/.notdef
+/slash
+/uni2070
+/uni2071
+/uni2072
+/uni2073
+/uni2074
+/uni2075
+/uni2076
+/uni2077
+/uni2078
+/uni2079
+/uni00F7 % divide symbol
+/.notdef
+/less
+/.notdef
+/greater
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/backslash       
+/.notdef
+/asciicircum    
+/underscore      
+/quoteleft      
+/.notdef
+/eth
+/.notdef
+/.notdef
+/.notdef
+/uniE513 % ch ligature (fraktur)
+/uniE514 % ch ligature (fraktur)
+/.notdef
+/.notdef
+/ij
+/.notdef
+/uni017F % long s
+/.notdef
+/uniE515 % double long s ligature
+/germandbls
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/uni0259 % schwa
+/uniE516 % l with curl
+/uniE517 % lacute with curl
+/uniE518 % lhook with curl
+/uniE519 % lslash with curl
+/.notdef
+/.notdef
+/.notdef
+/bar           
+/.notdef
+/asciitilde     
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/uni2423 % visible space
+/.notdef
+/.notdef
+/.notdef
+/logicalnot
+/mu
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/uni2080
+/uni2081
+/uni2082
+/uni2083
+/uni2084
+/uni2085
+/uni2086
+/uni2087
+/uni2088
+/uni2089
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+] def
